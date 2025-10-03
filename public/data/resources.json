@@ -188,6 +188,12 @@
     {
         "club_id": "7",
         "club_name": "CCG",
+        "resource_name": "Fast Track Degree Guide",
+        "resource_link": "https://drive.google.com/file/d/1nvO-_bhNOH9U3UtzTykNFA-Di0npH4Id/view"
+    },  
+    {
+        "club_id": "7",
+        "club_name": "CCG",
         "resource_name": "Product Management Booklet",
         "resource_link": "https://drive.google.com/file/d/1CgHTjUTsyxQBsFELWoQSryHMJhDWJUws/view?fbclid=PAQ0xDSwLkugtleHRuA2FlbQIxMAABp1Gj56l_2NP5lqSw6JH7vzRLJQLpKUZCaOXK1gVR1R7iWutb5btP88nkn4_o_aem_zgE6jIXSriPFql_haALpIQ"
     },
