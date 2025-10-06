@@ -1,11 +1,11 @@
 club_id,club_name,resource_name,resource_link
 1,Analytics Club,Interview Preparation Booklet for Analytics ,"https://drive.google.com/file/d/1w-1zKQ6UUam5sxAXinlETkSLQDdJJb-x/view
-"
 1,Analytics Club,Internship Preparation Bootcamps for Analytics and Quant Profiles,https://amusing-reply-35b.notion.site/Internship-Preparation-Bootcamps-2033a341c83b802fa31fda33770c9b53?pvs=73
 1,Analytics Club,Business Analytics Casebook,https://drive.google.com/file/d/1Fu26GmDer62qq6dUsKOHCn4ztLBM_HQC/view?usp=sharing
 1,Analytics Club,Deep Learning Bootcamp - Natural Language Processing (NLP) Track,https://fuschia-hardboard-d83.notion.site/Natural-Language-Processing-NLP-11cbdcdb181f80748413da9c2951ba0c
 1,Analytics Club,Deep Learning Bootcamp - Computer Vision (CV) Track,https://viridian-submarine-d74.notion.site/Computer-Vision-CV-11c6d54b585f80d18c38fb80b28b01af
 1,Analytics Club,Machine Learning Booklet,https://drive.google.com/file/d/1gf96XHPY2BFSUMLaVHO4q7GTmt1I8wF8/view?usp=sharing
+2,Consult Club,Entrepreneurship Booklet,https://bighome.iitb.ac.in/index.php/s/6r3KGZNEWT8WkxW
 2,Consult Club,Industry Primer,https://drive.google.com/file/d/1xPvQB6_Y7RbEblxJVaqHjFm8LOd-4S3O/view?usp=sharing
 2,Consult Club,The Wisdom Herald ,https://docs.google.com/document/d/1Eu5iSNR7mbIU0klbnB5MXstJ1FncPnmz0derdqAYARQ/edit?usp=sharing
 2,Consult Club,Caselet ,https://drive.google.com/file/d/1jlN0zbBEO-1EakVJ3A5t4LSYiCncljRk/view?usp=sharing
@@ -20,6 +20,7 @@ club_id,club_name,resource_name,resource_link
 4,EnPoWER,Grad Booklet,https://drive.google.com/file/d/1g_qprGRCG8fFmEKbX-DcKbvPisb7AbvH/view
 4,EnPoWER,Core Intern Booklet,https://bighome.iitb.ac.in/index.php/s/JF6zR9kSz59caSy
 4,EnPoWER,Grad Booklet,https://drive.google.com/drive/folders/1NgJgCYO27O0akFylvMxkOZcO34vSavc4?usp=sharing
+5,SSS,The Library Spotlight,https://bighome.iitb.ac.in/index.php/s/eF3kETeTLXEqfnQ
 5,SSS,IDDDP Booklet 2025-26,https://drive.google.com/file/d/1M7jXeGaYt9gfStn3cTR-7ZmalhyQjjcB/view?usp=sharing
 5,SSS,Course Info Booklet 2025-26,https://drive.google.com/file/d/19XaGo0VUTs7jcQJciYNhMIgSxk7pC6Gz/view?usp=sharing
 5,SSS,BSBE Guide Part 1,https://drive.google.com/file/d/1MLIXE98agfqkWvfq4xg-435udWGddy2Z/view?usp=sharing
@@ -39,4 +40,5 @@ club_id,club_name,resource_name,resource_link
 9,DAV,Machine Learning Booklet,https://drive.google.com/file/d/1rEsco0A8ZsovNYR5LxopJRcmMgCn2i0G/view?usp=drive_link
 10,ISIR,,
 11,Web Team,,
+
 12,Design Team,,
