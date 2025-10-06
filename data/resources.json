@@ -38,6 +38,12 @@
     {
         "club_id": "2",
         "club_name": "Consult Club",
+        "resource_name": "Entrepreneurship Booklet",
+        "resource_link": "https://bighome.iitb.ac.in/index.php/s/6r3KGZNEWT8WkxW"
+    },
+    {
+        "club_id": "2",
+        "club_name": "Consult Club",
         "resource_name": "Industry Primer",
         "resource_link": "https://drive.google.com/file/d/1xPvQB6_Y7RbEblxJVaqHjFm8LOd-4S3O/view?usp=sharing"
     },
@@ -118,6 +124,12 @@
         "club_name": "EnPoWER",
         "resource_name": "Grad Booklet",
         "resource_link": "https://drive.google.com/drive/folders/1NgJgCYO27O0akFylvMxkOZcO34vSavc4?usp=sharing"
+    },
+    {
+        "club_id": "5",
+        "club_name": "SSS",
+        "resource_name": "The Library Spotlight",
+        "resource_link": "https://bighome.iitb.ac.in/index.php/s/eF3kETeTLXEqfnQ"
     },
     {
         "club_id": "5",
