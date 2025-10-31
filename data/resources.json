@@ -170,6 +170,12 @@
     {
         "club_id": "6",
         "club_name": "Career Cell",
+        "resource_name": "UPSC Booklet",
+        "resource_link": "https://drive.google.com/file/d/1dAYQ_neJqCPOtBAUR26qfKmqcnT2emTn/view"
+    },
+    {
+        "club_id": "6",
+        "club_name": "Career Cell",
         "resource_name": "University Internship Booklet",
         "resource_link": "https://drive.google.com/file/d/1P2ALhAJJoyeN9B_kkNG79KwagEZSTZ2Z/view?usp=drive_link"
     },
