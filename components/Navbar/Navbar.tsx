@@ -39,7 +39,7 @@ const NavbarComponent = () => {
           <Link href="/resources" className={linkClass('/resources')}>Resources</Link>
           <Link href="/divisions" className={linkClass('/divisions')}>Divisions</Link>
           <Link href="/team" className={linkClass('/team')}>Team</Link>
-          <Link href="https://ugac.gymkhana.iitb.ac.in/wiki" target="_blank" rel="noopener noreferrer" className={linkClass('/wiki')}>Wiki</Link>
+          <Link href="https://ugac.gymkhana.iitb.ac.in/UG-Wiki/" target="_blank" rel="noopener noreferrer" className={linkClass('/wiki')}>Wiki</Link>
         </div>
 
         {/* Mobile Hamburger */}
@@ -64,7 +64,7 @@ const NavbarComponent = () => {
             <Link className={linkClass('/resources')} href="/resources" onClick={() => setIsOpen(false)}>Resources</Link>
             <Link className={linkClass('/divisions')} href="/divisions" onClick={() => setIsOpen(false)}>Divisions</Link>
             <Link className={linkClass('/team')} href="/team" onClick={() => setIsOpen(false)}>Team</Link>
-            <Link href="https://ugac.gymkhana.iitb.ac.in/wiki" target="_blank" rel="noopener noreferrer" className={linkClass('/wiki')}>Wiki</Link>
+            <Link href="https://ugac.gymkhana.iitb.ac.in/UG-Wiki/" target="_blank" rel="noopener noreferrer" className={linkClass('/wiki')}>Wiki</Link>
           </motion.div>
         )}
       </AnimatePresence>
